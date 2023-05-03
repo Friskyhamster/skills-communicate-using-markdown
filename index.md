@@ -4,4 +4,4 @@
 #### L
 ##### O
 # !
-![Image of Nuxtocat](https://octodex.github.com/nuxtocat/)
+![Image of Nuxtocat](https://octodex.github.com/images/godotocat.png)
